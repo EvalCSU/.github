@@ -1,4 +1,4 @@
-# EvalCSU
+<h1 align="center">EvalCSU</h1>
 
 EvalCSU 将为你提供大部分的课程设计演示，这意味着你没有必要在垃圾桶里寻找点心。
 
